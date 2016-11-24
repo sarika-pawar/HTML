@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+    <head>
+        <title>alabbar enterprises</title>
+        <style>
+         .page{width:1270px;float:left;} 
+         .header{width:990px;margin-left: 135px;margin-right: 135px;}
+         .header-left{width:230px;float:left;padding:10px;}
+         .image1{width:230px;height:155px;}
+         .header-right{width:700px;height: 55px;float:right;margin-top: 110px; }
+         .link-01{list-style: none;width:80px; float:left;font-size: 14px;text-align: ;center;}
+         .link-02{list-style: none;width:105px; float:left;font-size: 14px;text-align: center;}
+         .link-03{list-style: none;width:155px; float:left;font-size: 14px;text-align: center;}
+         .link-04{list-style: none;width:115px; float:left;font-size: 14px;text-align: center;}
+         .link-05{list-style: none;width:100px; float:left;font-size: 14px;text-align: center;}
+         .link-06{list-style: none;width:100px; float:left;font-size: 14px;text-align: center;}
+         .link-1{text-decoration: none;color:#666666;}
+         .line{width:700px;float:left;text-align:center;}
+         .container{width: 1270px;float:left;text-align:center;}
+          .header-right a:hover{color: black;}
+          .image-container{width:1270px;height:365px;}
+          .row{width:990px;float:left;margin-left: 135px;margin-right: 135px;margin-top: 20px;border-bottom: 1px solid silver;
+               padding-bottom: 25px;}
+          .row-left{width:310px;float:left; text-align:center;margin-left: 10px;margin-right: 10px;}
+          .row-image{width:300px;height:127px;}
+          .row-left-heading{width:315px;float: left;text-align: left;font-size:15px;margin-left: 10px;margin-right: 10px;}
+          .row-left-p1{width:315px;float: left;text-align: left;color:#666666;margin-left: 10px;margin-right: 10px;} 
+          .row-left-button{width:110px;height:25px;float:left;text-align: center;border-radius:4px;background-color: white;
+                           text-decoration: none; color:black;border:1px solid gray;padding-top: 10px;margin-left: 10px;}
+           .row-left a:hover{background-color:silver; }
+           .row-2-left a:hover{background-color:silver; }
+           .row-2{width:990px;float:left;margin-left: 135px;margin-right: 135px;margin-top: 20px;}
+           
+           .row-2-left{width:485px;float:left;margin-right:10px;}  
+           .row-2-left-heading{width:485px;float:left;text-align: left;font-size:18px;}
+            .row-2-left-p1{width:485px;float: left;text-align: left;color:#666666x;font-size: 16px;}
+            .row-2-right{width:485px;float:right;text-align: left;margin-left: 10px;}
+            .row-right-colom1{width:160px;float:left;text-align: center;}
+            .row-right-image{width:135px;height:46px;}
+            .footer{width:1270px;float:left;background-color: black;margin-top: 20px;}
+            .footer-left{width:630px;float:left;text-align: left;}
+            .footer-image{width:180px;height:95px;color: white;}
+            .footer-right{width:630px;float: right;text-align: right;} 
+            .footer-right-1{width:220px;float:right;color:white;font-weight: bold;}
+            .footer-link1{width:130px;float:left;color: #428bca;text-align: right;text-decoration: none;font-size: 17px;}
+            .footer-link2{width:75px;float:right;color:#428bca;text-align: left;text-decoration: none;font-size: 17px;}
+             .footer-right-1 a:hover{text-decoration: underline;} 
+        </style>
+    </head>
+    <body>
+        <div class="page">
+            <div class="header">
+                <div class="header-left">
+                    <a href="https://www.google.com/" title="alabbar enterprises">
+                         <img src="http://www.alabbarenterprises.com/images/logo.jpg"
+                                  alt="alabbar enterprises" class="image1"> 
+                    </a>     
+                </div>
+                <div class="header-right">
+                     <ul class="line">
+                            <li class="link-01"><a href="alabbar%20enterprises.html" title="alabbar enterprises" class="link-1">HOME</a></li>
+                            <li class="link-02"><a href="alabbar%20enterprises%20about.html" title="alabbar enterprises" class="link-1">ABOUT US</a></li>
+                            <li class="link-03"><a href="alabbar%20enterprises%20mission%20&vision.html" title="alabbar enterprises" class="link-1">MISSION & VISION</a></li>
+                            <li  class="link-04"><a href="alabbar%20enterprises%20portfolio.html" title="alabbar enterprises" class="link-1">PORTFOLIO</a></li>
+                            <li  class="link-05"><a href="alabbar%20enterprises%20careers.html" title="alabbar enterprises" class="link-1">CAREERS</a></li>
+                            <li class="link-06"><a href="alabbar%20enterprises%20contact.html" title="alabbar enterprises" class="link-1">CONTACT</a></li>
+                        </ul>
+                </div>
+            </div>
+            <div class="container">
+                 <img src="http://www.alabbarenterprises.com/images/banner2/Homepage-new.jpg"
+                                  alt="alabbar enterprises" class="image-container">
+            </div>
+            <div class="row">
+                <div class="row-left">
+                    <a href="alabbar%20enterprises%20mission%20&vision.html" title="alabbar enterprises">
+                  <img src="http://www.alabbarenterprises.com/images/feat-mission-vision2.jpg"
+                       alt="alabbar enterprises" class="row-image" ></a>
+                    <h4 class="row-left-heading">MISSION & VISION </h4>
+                    <p class="row-left-p1">We strive to be a forward-thinking leader in bringing exclusive
+                        lifestyle experiences that surpass the aspirations of our clients.</p>
+                    <p>
+                        <a class="row-left-button" href="alabbar%20enterprises%20mission%20&vision.html" role="button" title="Mission &; Vision">Read more >></a>
+                    </p>
+                </div>
+                <div class="row-left">
+                    <a href="alabbar%20enterprises%20portfolio.html" title="alabbar enterprises">
+                  <img src="http://www.alabbarenterprises.com/images/feat-portfolio.jpg"
+                       alt="alabbar enterprises" class="row-image" ></a>
+                        <h4 class="row-left-heading">PORTFOLIO </h4>
+                    <p class="row-left-p1">Committed to excellence, we bring to life innovative,
+                                           inspiring, and exciting lifestyle concepts that add value to our stakeholders...</p>
+                    <p>
+                        <a class="row-left-button" href="alabbar%20enterprises%20portfolio.htmls" role="button" title="Mission &; Vision">Read more >></a>
+                    </p>
+                </div>
+                <div class="row-left">
+                     <a href="alabbar%20enterprises%20careers.html" title="alabbar enterprises">
+                  <img src="http://www.alabbarenterprises.com/images/feat-careers2.jpg"
+                       alt="alabbar enterprises" class="row-image" ></a>
+                        <h4 class="row-left-heading">CAREERS </h4>
+                    <p class="row-left-p1">As a customer focused company, we also look for people with a 
+                                          passion for delivering excellent customer service to our valued customers.</p>
+                    <p>
+                        <a class="row-left-button" href="alabbar%20enterprises%20careers.html" role="button" title="Mission &; Vision">Read more >></a>
+                        
+                    </p>
+                </div>
+             </div>
+            <div class="row-2">
+                <div class="row-2-left">
+                     <h4 class="row-2-left-heading">ALABBAR ENTERPRISES </h4>
+                    <p class="row-2-left-p1">Alabbar Enterprises is the parent company 
+                                          for a variety of retail & franchise operations based in both the Middle East and Asia.</p>
+                    <p>
+                        <a class="row-left-button" href="alabbar%20enterprises%20about.html" role="button" title="Mission &; Vision">Read more >></a>
+                    </p>
+                </div>
+                <div class="row-2-right">
+                    <h4 class="row-2-left-heading">SOME OF OUR BRANDS</h4>
+                    <div class="row-right-colom1">
+                         <a href="alabbar%20enterprises%20yougartland.html" title="alabbar enterprises">
+                  <img src="http://www.alabbarenterprises.com/images/brands-yogurtland.jpg"
+                       alt="alabbar enterprises" class="row-right-image" ></a>
+                    </div>
+                    <div class="row-right-colom1">
+                        <a href="alabbar%20enterprises%20ethan-ellan.html" title="alabbar enterprises">
+                  <img src="http://www.alabbarenterprises.com/images/brands-ethan-allen.jpg"
+                       alt="alabbar enterprises" class="row-right-image" ></a>
+                    </div>
+                    <div class="row-right-colom1">
+                        <a href="alabbar%20enterprises%20social-house.html" title="alabbar enterprises">
+                  <img src="http://www.alabbarenterprises.com/images/brands-social-house.jpg"
+                       alt="alabbar enterprises" class="row-right-image" ></a>
+                    </div>
+                </div>
+            </div>
+            <div class="footer">
+                <div class="footer-left">
+                    
+                  <img src="http://www.alabbarenterprises.com/images/footer-logo.jpg"
+                       alt="alabbar enterprises" class="footer-image" ></a>
+                </div>
+                
+                <div class="footer-right">
+                    <div class="footer-right-1">
+                       © 2014 - Alabbar Enterprises 
+                       <br>
+                        <a class="footer-link1" href="https://www.google.com/" title="alabbar enterprises" >
+                            Disclaimer</a>
+                       | 
+                     <a  class="footer-link2"href="https://www.google.com/" title="alabbar enterprises" class="footer-link2">
+                            Sitemap</a>
+                       <br>
+                    </div>
+                </div>
+                
+                
+                
+            </div>
+            
+        </div>
+    </body>
+</html>
